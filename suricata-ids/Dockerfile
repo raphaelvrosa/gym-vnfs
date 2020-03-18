@@ -1,4 +1,4 @@
-FROM raphaelvrosa/gym:0.1
+FROM raphaelvrosa/gym:latest
 
 RUN apt-get update
 RUN apt-get install build-essential -y
